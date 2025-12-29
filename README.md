@@ -44,6 +44,8 @@ Seeking epic coding adventures 😎
   <img src="https://img.shields.io/badge/Bilibili-Fuwaki%E5%9C%A8%E5%AD%A6%E5%95%A6-blue">
 </a>
 
+![Email](https://img.shields.io/badge/Outlook-tiny.fly@outlook.com-0078D4?logo=microsoft-outlook)
+
 > 如果可以的话 交个朋友嘛😉 `git merge --social-branch=friend`
 
 > 名字来源于 ふわり「fu wa ri」 以前叫Fly (x
