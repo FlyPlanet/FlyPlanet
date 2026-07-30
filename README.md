@@ -1,10 +1,10 @@
 ## Hi there! 我是 Fuwaki 🫠
 
-湖科大的大二学生，机器人工程专业💦
+湖科大的大三学生，机器人工程专业💦
 
-I'm currently a sophomore in HNUST,major in Robotics Engineering.
+I'm currently a junior in HNUST,major in Robotics Engineering.
 
-喜欢各个领域的有趣的知识，喜欢实践，在向“全栈”靠近，有过`桌面端`、`Web`和`嵌入式`开发经历（并非 乱玩罢了🤓），想学习机器学习、自动控制相关的知识🥵
+喜欢各个领域的有趣的知识，喜欢实践，「全沾」工程师，有过`桌面端`、`Web`和`嵌入式`开发经历🤓，想学习机器学习、自动控制相关的知识🥵
 
 最好来和我一起干点好玩的😋
 
